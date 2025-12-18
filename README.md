@@ -1,6 +1,6 @@
 <!-- ![Banner Image](https://user-images.githubusercontent.com/81384987/236854925-8284fc07-b28b-41eb-a00d-3b9a1b75cf43.png) -->
 
-![Banner Image](img/BA/banner.jpg)
+<!-- ![Banner Image](img/BA/banner.jpg) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Experience+matters+more+than+SUCESS.+)](https://akashdip2001.github.io/linktree/)
 
