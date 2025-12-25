@@ -121,6 +121,11 @@
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
   
 # ⭐ Credly [**`achievements`**](https://www.credly.com/users/akashdip2001) ⭐
+
+</BR>
+
+![mona-hifive-loop-once-8c78f1af57d0](https://github.com/user-attachments/assets/9538af73-640d-42c6-8870-972e02602a05)
+
 </div>
 
 </br>
