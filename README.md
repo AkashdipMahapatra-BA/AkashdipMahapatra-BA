@@ -145,11 +145,11 @@
 
 | Repository (Short Name) | What This Repository Represents | Tech / Stack Involved | Repository Link |
 |-------------------------|---------------------------------|-----------------------|-----------------|
-| CI/CD RCA Notes | Personal documentation of CI/CD pipeline failures I encountered or studied, focusing on root-cause analysis, failure patterns, and troubleshooting logic. This is a learning & revision repository, not a production pipeline. | CI/CD, DevOps, Git, Jenkins/GitHub Actions, YAML, Linux | https://github.com/AkashdipMahapatra-BA/Root-cause-analysis--CI-CD-fails |
+| CI/CD RCA Notes | Personal documentation of CI/CD pipeline failures I encountered or studied, focusing on root-cause analysis, failure patterns, and troubleshooting logic. This is a learning & revision repository, not a production pipeline. | CI/CD, DevOps, Git, `GitHub Actions`, YAML, Linux, `AWS` | https://github.com/AkashdipMahapatra-BA/Root-cause-analysis--CI-CD-fails |
 | | |
-| Vulnerability Fix Notes | A learning repository documenting common security vulnerabilities, misconfigurations, and remediation approaches I explored during hands-on practice and work exposure. Content is generalized and non-confidential. | Security, DevSecOps, Linux, CVE Analysis, Dependency Scanning | https://github.com/AkashdipMahapatra-BA/fix-vulnerabilities |
+| Vulnerability Fix Notes | A learning repository documenting common security vulnerabilities, misconfigurations, and remediation approaches I explored during hands-on practice and work exposure. Content is generalized and non-confidential. | Security, `DevSecOps`, Linux, `CVE` Analysis, Dependency Scanning | https://github.com/AkashdipMahapatra-BA/fix-vulnerabilities |
 | | |
-| Kafka Partition Learnings | Notes and experiments created to understand Kafka partitioning, performance behavior, and optimization concepts while studying distributed systems. Used mainly for conceptual clarity and revision. | Apache Kafka, Distributed Systems, Event Streaming, Linux | https://github.com/AkashdipMahapatra-BA/Kafka-Partition-Reduce |
+| Kafka Partition Learnings | Notes and experiments created to understand Kafka partitioning, performance behavior, and optimization concepts while studying distributed systems. Used mainly for conceptual clarity and revision. | Apache `Kafka`, `Distributed Systems`, Event Streaming, Linux | https://github.com/AkashdipMahapatra-BA/Kafka-Partition-Reduce |
 
 </br>
 
