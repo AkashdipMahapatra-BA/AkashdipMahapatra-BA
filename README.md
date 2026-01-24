@@ -158,3 +158,17 @@
    - Some repositories may currently appear as [private]() or return a [404 error]().       
    - This is `intentional`. As I am presently part of an organization, I periodically restrict repository visibility to ensure full compliance with **corporate policies**, **confidentiality standards**, and **professional ethics**.
    - If you are a recruiter or engineer interested in reviewing my work, feel free to contact me directly, and I’ll be happy to discuss my experience and learning approach.
+
+
+</br>
+</br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+---
+ 
+These repositories reflect my learning journey and engineering mindset, and they continue to evolve as I gain deeper exposure to `DevOps`, `Cloud`, `Security`, and `Distributed Systems`.
+
+---
+
+</div>
