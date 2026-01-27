@@ -141,6 +141,22 @@
 
 </br>
 </br>
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+ ---
+ 
+## All office Works == Skills
+#### [old collage projects `link`](https://github.com/akashdip2001/akashdip2001?tab=readme-ov-file#projects-)
+
+---
+
+</div>
+
+</br>
+</br>
+
+</br>
+</br>
 </br>
 
 
