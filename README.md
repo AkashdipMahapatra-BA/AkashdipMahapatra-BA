@@ -146,7 +146,7 @@
  ---
  
 ## All office Works == Skills
-#### [old collage projects `link`](https://github.com/akashdip2001/akashdip2001?tab=readme-ov-file#projects-)
+#### [old collage projects `link`](https://github.com/akashdip2001/akashdip2001?tab=readme-ov-file#projects001)
 
 ---
 
