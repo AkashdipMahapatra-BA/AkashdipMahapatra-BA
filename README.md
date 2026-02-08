@@ -181,6 +181,8 @@
 </br>
 </br>
 
+<img src="https://github.com/akashdip2001/System-Design/blob/main/Public/Scalability.jpg" />
+
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 
 ---
