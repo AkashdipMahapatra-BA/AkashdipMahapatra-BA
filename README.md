@@ -107,6 +107,10 @@
 </p> -->
 <h3 src="https://youtu.be/ysBF9EfvWkk?t=428" align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
 
+<div align="center">
+    <img src="img/Blue horizontal line.png" height="10">
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&text=Success%20looks%20good%20on%20paper%2C%20but%20experiences%20truly%20make%20you%20feel%20alive&height=160&fontSize=20&desc=fail,%20learn%20and%20repeat&descAlignY=75&descAlign=50" alt="Motivational Banner"/>
 </p>
