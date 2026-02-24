@@ -149,7 +149,7 @@
 
  ---
  
-## All office Works == Skills
+# All office **Jira Tasks** 
 #### [old collage projects `link`](https://github.com/akashdip2001/akashdip2001?tab=readme-ov-file#projects001)
 
 ---
@@ -177,7 +177,17 @@
 </br>
 </br>
 
-### 🛡️ Application Security & Code Hardening
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+ ---
+ 
+# 🛡️ Application Security & Code Hardening
+
+---
+
+</div>
+
+</br>
 
 | Event / Project | Description & Remediations | Link | Tags |
 |---|---|---|---|
