@@ -175,6 +175,16 @@
 
 
 </br>
+</br>
+
+### 🛡️ Application Security & Code Hardening
+
+| Event / Project | Description & Remediations | Link | Tags |
+|---|---|---|---|
+| **TCS CodeSecure2 Hackathon: Django Security Audit** | Conducted a comprehensive static code analysis and manual security remediation for a monolithic Django application (Sales & Inventory Management). Successfully identified and patched **27 critical vulnerabilities** mapping to the OWASP Top 10.<br><br>**Key Vulnerabilities Remediated:**<ul><li>**Injection Flaws (SQLi & OS Command):** Replaced raw SQL execution (`cursor.execute`) with secure, parameterized Django ORM queries. Completely removed multiple instances of OS Command Injection by stripping unsafe `subprocess.check_output()` calls tied to URL parameters.</li><li>**Insecure Deserialization & File Uploads:** Prevented Remote Code Execution (RCE) by migrating unsafe `pickle.loads()` data parsing to secure `json.loads()`. Patched Arbitrary File Read (SSRF) and Path Traversal flaws in file-handling views.</li><li>**Broken Access Control & IDOR:** Eradicated hidden backdoor login routes. Secured API endpoints by removing unauthorized state-changing `GET` methods and enforcing strict authentication decorators (`@login_required`, `LoginRequiredMixin`) to prevent Insecure Direct Object References (IDOR) on sensitive invoice downloads.</li><li>**Global Configuration Hardening:** Hardened `settings.py` by disabling `DEBUG` mode, securing session cookies (`HTTPOnly`), removing wildcard `"null"` CORS misconfigurations, enforcing Clickjacking middleware (`X_FRAME_OPTIONS`), and externalizing hardcoded secret keys.</li></ul> | [Repo](https://github.com/AkashdipMahapatra-BA/CODESECURE-SEASON-2) | use <ul><li>Python / Django</li><li>Code Review</li><li>OWASP Top 10</li></ul> `AppSec`, `Vulnerability Remediation`, `DevSecOps`, `SQLi`, `Command Injection`, `IDOR`, `Deserialization`, `CORS`, `Security Audit` |
+
+</br>
+</br>
 
 ### Repository `Visibility Notice`.
 
