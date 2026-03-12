@@ -242,7 +242,12 @@
 </br>
 </br>
 
+<details>
+  <summary style="opacity: 0.85;"><b>my interest</b></summary><br>
+ 
 <img src="https://github.com/akashdip2001/System-Design/blob/main/Public/Scalability.jpg" />
+
+</details>
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 
