@@ -161,6 +161,42 @@
 
 </br>
 </br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+ ---
+ 
+# ⚙️ Infrastructure & Workflow Automation ⚙️
+
+> Scripts, pipelines, and tools built to eliminate operational toil and accelerate CI/CD workflows.
+
+---
+
+</div>
+
+</br>
+
+| Automation Task | Architecture & Implementation | Technical & Business Impact | Links & Stack |
+|---|---|---|---|
+| **Post-Deployment Validation Automation** <br><br> *Goal: Automate manual QA checklist for the GSE Events Data Product.* | **Event-Driven Execution:** GitHub Actions workflow dynamically triggers a Python health-check script upon deployment completion.<br><br>**Observability Integration:** Uses `boto3` to query **CloudWatch Metrics/Logs** for Lambda exceptions and the `datadog-api-client` to verify zero Datadog monitor failures during the Change Request (CR) window.<br><br>**Automated Reporting:** Generates a structured JSON/Excel checklist enforcing strict Yes/No health validations. | **Technical Impact:** Eliminated manual log-checking toil. Enforced a deterministic, zero-error baseline for environments, and standardized the Dev sign-off process.<br><br>**Business Impact:** Accelerated the Change Request pipeline, saving dedicated engineering hours per deployment. Significantly lowered the risk of regressions reaching production. | <ul><li>[Jira link](https://britishairways.atlassian.net/browse/IIDIP-23046)</li><li>[View Repo](https://github.com/AkashdipMahapatra-BA/Task-11---Automation)</li></ul> <br> `Python / Boto3`, `GitHub Actions`, `AWS CloudWatch`, `Datadog API`, `CI/CD Automation` |
+
+</br>
+</br>
+
+</br>
+</br>
+</br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+ ---
+ 
+# ⚙️ Other Jira Tasks ⚙️
+
+---
+
+</div>
+
 </br>
 
 
