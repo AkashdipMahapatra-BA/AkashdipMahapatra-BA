@@ -181,8 +181,14 @@
 | **Post-Deployment Validation Automation** <br><br> *Goal: Automate manual QA checklist for the GSE Events Data Product.* | **Event-Driven Execution:** GitHub Actions workflow dynamically triggers a Python health-check script upon deployment completion.<br><br>**Observability Integration:** Uses `boto3` to query **CloudWatch Metrics/Logs** for Lambda exceptions and the `datadog-api-client` to verify zero Datadog monitor failures during the Change Request (CR) window.<br><br>**Automated Reporting:** Generates a structured JSON/Excel checklist enforcing strict Yes/No health validations. | **Technical Impact:** Eliminated manual log-checking toil. Enforced a deterministic, zero-error baseline for environments, and standardized the Dev sign-off process.<br><br>**Business Impact:** Accelerated the Change Request pipeline, saving dedicated engineering hours per deployment. Significantly lowered the risk of regressions reaching production. | <ul><li>[Jira link](https://britishairways.atlassian.net/browse/IIDIP-23046)</li><li>[View `docomentation` Repo](https://github.com/AkashdipMahapatra-BA/Task-11-Automation-deployment_validation)</li></ul> <br> `Python / Boto3`, `GitHub Actions`, `AWS CloudWatch`, `Datadog API`, `CI/CD Automation` |
 
 </br>
-</br>
 
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+ 
+<img width="944" height="235" alt="image" src="https://github.com/user-attachments/assets/c7495fca-dec9-4382-a139-036887b55a16" />
+
+</div>
+
+</br>
 </br>
 </br>
 </br>
