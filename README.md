@@ -211,6 +211,7 @@
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
  
 ![alt text](img/image.png)
+![alt text](img/image-01.png)
 
 </div>
 
