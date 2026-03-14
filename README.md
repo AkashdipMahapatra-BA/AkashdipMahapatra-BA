@@ -187,6 +187,34 @@
 
 </br>
 </br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+
+ ---
+ 
+# 💲 AWS Cost Anomaly & Architecture Root Cause Analysis 💲
+
+> AWS Billing and Cost Management, AWS CloudTrail, AWS CloudWatch
+
+---
+
+</div>
+
+</br>
+
+| Automation Task | Architecture & Implementation | Technical & Business Impact | Links & Stack |
+|---|---|---|---|
+| **AWS Cost Anomaly & Architecture RCA** <br><br> *Goal: Resolve runaway AWS billing alerts across Lambda, MSK, and EC2 via deep telemetry analysis.* | **Telemetry Correlation:** Cross-referenced CloudWatch Metrics (Invocations, AsyncEventAge) with large-scale CloudTrail logs to isolate infrastructure changes and filter regional noise.<br><br>**Loop Diagnosis:** Uncovered a synchronous Lambda-MSK retry loop triggered by an IAM `AccessDenied` error following a Kafka client library upgrade.<br><br>**Architecture Audit:** Traced a permanent cost baseline shift to manual `PutProvisionedConcurrencyConfig` executions, changing a Lambda from pay-per-request to 24/7 billing. | **Technical Impact:** Stopped active runaway costs by identifying abandoned EC2 instances and severing the event loop. Proposed architectural safeguards including DLQs and MSK retry limits.<br><br>**Business Impact:** Provided management with definitive data distinguishing between temporary incident burn and permanent architectural upgrades, enabling accurate cloud budgeting. | <ul><li>[Jira link](#)</li><li>[View `documentation` Repo](#)</li></ul> <br> `AWS CloudTrail`, `AWS CloudWatch`, `AWS Lambda`, `Amazon MSK`, `FinOps`, `Python/Pandas` |
+
+</br>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+ 
+
+
+</div>
+
+</br>
 </br>
 </br>
 
