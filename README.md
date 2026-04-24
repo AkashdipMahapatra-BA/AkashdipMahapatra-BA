@@ -150,7 +150,42 @@
  ---
  
 # All office **Jira Tasks** 
-#### [old collage projects `link`](https://github.com/akashdip2001/akashdip2001?tab=readme-ov-file#projects001)
+#### [old collage projects `link`](https://github.com/akashdip2001/akashdip2001?tab=readme-ov-file#projects001) : collage Time GitHub account
+
+---
+
+</br>
+</br>
+
+<img width="1111" height="491" alt="Screenshot 2026-04-21 124148" src="https://github.com/user-attachments/assets/715ff01f-5857-4f24-9628-c7be0f826af2" />
+
+> This is a one small part of a complete Data Product, one of many Data Products in a M1 AWS cluster - Click to see the [working account](https://github.com/AkashdipMahapatra-BA)
+
+ </br>
+ 
+<details>
+  <summary style="opacity: 0.85;"><b>M2 cluster</b></summary><br>
+ 
+<img width="4604" height="5258" alt="diagram-export-20-02-2026-17_53_22" src="https://github.com/user-attachments/assets/36760ae7-59e2-43e4-8590-5ee6fae7a61d" />
+
+> **current project** - (British Airways) TCS, 2025 - 2026 , Click to see the [working account](https://github.com/AkashdipMahapatra-BA) </br>
+> **NB:** This is a over-view understanding of my current working project - **This is not a actual LLD**.
+
+
+</details>
+
+### ⚡ Fun Fact / Current Focus: I recently transitioned into the DevOps space, and my favorite part so far is being a "sponge" during massive enterprise migrations. While I'm mastering the fundamentals, I'm actively sitting in on cross-squad migration groups (like our MSK Migration task force). I might not be writing all the final migration scripts yet, but I'm absorbing the architecture, the planning, and the problem-solving required to move critical data products without breaking a sweat!
+
+</br>
+
+<img width="1366" height="618" alt="image" src="https://github.com/user-attachments/assets/0b6ea890-54a3-4c86-8d84-85094edc8be9" />
+<img width="1366" height="617" alt="575383213-046d0f04-b8a1-48a8-8ede-550720728479" src="https://github.com/user-attachments/assets/54650ae9-f676-4a96-9b0d-d5460efbf73c" />
+
+> Some ss from our Enterprise project Mogration, Infront of my eye.
+
+
+</br>
+</br>
 
 ---
 
