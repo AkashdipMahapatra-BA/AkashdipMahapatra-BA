@@ -1,3 +1,4 @@
+https://scholar.google.com/citations?user=tG3Vb-cAAAAJ&hl=en&authuser=1
 
 ```
 I am writing to express my strong interest in the Systems Engineer I, Site Reliability Engineering position in Bengaluru. As an engineer currently managing enterprise-scale cloud architectures, deployment lifecycles, and database automation, I am deeply aligned with Google’s engineering approach to building and running fault-tolerant production systems.
