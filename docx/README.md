@@ -29,3 +29,5 @@ I am eager to bring my intellectual curiosity, deep Linux and Networking fundame
 * Observability (Datadog / CloudWatch)
 * Continuous Integration and Deployment (CI/CD)
 * Incident Management & Root Cause Analysis
+
+<img width="1366" height="624" alt="image" src="https://github.com/user-attachments/assets/4a9ceba4-46c1-4c06-8584-bf45ea5295a2" />
