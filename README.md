@@ -335,3 +335,10 @@ These repositories reflect my learning journey and engineering mindset, and they
 ---
 
 </div>
+
+</br>
+</br>
+
+- leetcode - https://leetcode.com/u/CQkb4GVRPw/
+- code360 - https://www.naukri.com/code360/profile/akashdip
+- GFG - https://www.geeksforgeeks.org/profile/akashdipmahapatra?tab=activity
