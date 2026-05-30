@@ -9,7 +9,8 @@
 
 <!-- High Priority Badges -->
 <div style='display:flex; justify-content:center; flex-wrap: wrap; gap: 15px;' align='center'>
-  <img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" height="120px" />
+  <img src="img/Badge/finops-certified-engineer.png" height="120px" />
+  <!--<img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" height="120px" />-->
   <img src="img/Badge/github-actions.png" height="120px" />
   <img src="img/Badge/GitHub Administration.png" height="120px" />
   <img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" height="120px" />
@@ -19,7 +20,7 @@
   <img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="120px" height="120px" />
   <img src="https://github.com/user-attachments/assets/2ea628be-a83a-4c27-bb9b-1dcd6cb09791" width="120px" height="120px" />
   <img src="img/Badge/akamai-cloud-computing-foundations-certification.png" width="120px" height="120px" />
-  <img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" height="120px" />
+  <!--<img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" height="120px" />-->
   <img src="img/Badge/Oracle AI Vector Search Certified Professional.png" height="120px" />
   <img src="https://github.com/akashdip2001/git-github/raw/main/Exam/06%20GitHub%20Copilot/github-copilot.png" height="120px" />
 </div>
