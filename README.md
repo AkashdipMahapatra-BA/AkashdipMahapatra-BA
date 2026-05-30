@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <div align="center">
-  <img src="img/BA/banner.jpg" alt="Banner Image" width="100%">
+  <img src="assets/core/ui/static/media/BA/banner.jpg" alt="Banner Image" width="100%">
   <br><br>
   <a href="https://akashdip2001.github.io/linktree/">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Experience+matters+more+than+SUCCESS." alt="Typing SVG">
@@ -9,19 +9,19 @@
 
 <!-- High Priority Badges -->
 <div style='display:flex; justify-content:center; flex-wrap: wrap; gap: 15px;' align='center'>
-  <img src="img/Badge/finops-certified-engineer.png" height="120px" />
-  <!--<img src="img/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" height="120px" />-->
-  <img src="img/Badge/github-actions.png" height="120px" />
-  <img src="img/Badge/GitHub Administration.png" height="120px" />
+  <img src="assets/core/ui/static/media/Badge/finops-certified-engineer.png" height="120px" />
+  <!--<img src="assets/core/ui/static/media/Badge/SolidWorks/SOLIDWORKS Associate - CAD Design.png" height="120px" />-->
+  <img src="assets/core/ui/static/media/Badge/github-actions.png" height="120px" />
+  <img src="assets/core/ui/static/media/Badge/GitHub Administration.png" height="120px" />
   <img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" height="120px" />
   <img src="https://github.com/user-attachments/assets/38dbb19d-3c50-45fe-a40f-5d75d67addff" height="120px" />
-  <img src="img/Badge/Postman White badge.png" height="120px" />
-  <img src="img/Badge/AWS Certified Cloud Practitioner.png" height="120px" />
-  <img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="120px" height="120px" />
+  <img src="assets/core/ui/static/media/Badge/Postman White badge.png" height="120px" />
+  <img src="assets/core/ui/static/media/Badge/AWS Certified Cloud Practitioner.png" height="120px" />
+  <img src="assets/core/ui/static/media/Badge/aws-cloud-quest-cloud-practitioner.png" width="120px" height="120px" />
   <img src="https://github.com/user-attachments/assets/2ea628be-a83a-4c27-bb9b-1dcd6cb09791" width="120px" height="120px" />
-  <img src="img/Badge/akamai-cloud-computing-foundations-certification.png" width="120px" height="120px" />
-  <!--<img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" height="120px" />-->
-  <img src="img/Badge/Oracle AI Vector Search Certified Professional.png" height="120px" />
+  <img src="assets/core/ui/static/media/Badge/akamai-cloud-computing-foundations-certification.png" width="120px" height="120px" />
+  <!--<img src="assets/core/ui/static/media/Badge/SF-Certified_AI-Associate_High-Res.png" height="120px" />-->
+  <img src="assets/core/ui/static/media/Badge/Oracle AI Vector Search Certified Professional.png" height="120px" />
   <img src="https://github.com/akashdip2001/git-github/raw/main/Exam/06%20GitHub%20Copilot/github-copilot.png" height="120px" />
 </div>
 
@@ -84,7 +84,7 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 <br>
 
 <div align="center">
-  <img src="img/Blue horizontal line.png" height="10" width="80%">
+  <img src="assets/core/ui/static/media/Blue horizontal line.png" height="10" width="80%">
   <p><i>"Success looks good on paper, but experiences truly make you feel alive. Fail, learn, and repeat."</i></p>
 </div>
 
