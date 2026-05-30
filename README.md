@@ -87,3 +87,20 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
   <img src="img/Blue horizontal line.png" height="10" width="80%">
   <p><i>"Success looks good on paper, but experiences truly make you feel alive. Fail, learn, and repeat."</i></p>
 </div>
+
+<div align="center">
+
+---
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;"> 
+  <a href="https://github.com/akashdip2001">
+    <img src="https://img.shields.io/badge/GitHub-akashdip2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub" />
+  </a></br></br>
+  📂 <b>Personal Archive & Academic Projects: (2021 - 2025)
+</div>
+
+---
+
+</div>
+
+</div>
