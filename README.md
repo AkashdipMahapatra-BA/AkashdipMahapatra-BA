@@ -16,12 +16,9 @@
   <img src="https://github.com/user-attachments/assets/38dbb19d-3c50-45fe-a40f-5d75d67addff" height="155px" />
   <img src="img/Badge/Postman White badge.png" height="120px" />
   <img src="img/Badge/AWS Certified Cloud Practitioner.png" height="120px" />
-</div>
-  
-<br>
-  
-<!-- AI & Data Badges -->
-<div style='display:flex; justify-content:center; flex-wrap: wrap; gap: 15px;' align='center'>
+  <img src="img/Badge/aws-cloud-quest-cloud-practitioner.png" width="150px" height="150px" />
+  <img src="https://github.com/user-attachments/assets/2ea628be-a83a-4c27-bb9b-1dcd6cb09791" width="155px" height="155px" />
+  <img src="img/Badge/akamai-cloud-computing-foundations-certification.png" width="160px" height="160px" />
   <img src="img/Badge/SF-Certified_AI-Associate_High-Res.png" height="120px" />
   <img src="img/Badge/Oracle AI Vector Search Certified Professional.png" height="120px" />
   <img src="https://github.com/akashdip2001/git-github/raw/main/Exam/06%20GitHub%20Copilot/github-copilot.png" height="120px" />
