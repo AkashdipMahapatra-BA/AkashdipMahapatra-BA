@@ -6,19 +6,24 @@
   </a>
 </div>
 
-<div align="center">
+<div style='display:flex; justify-content:center; flex-wrap: wrap; gap: 15px;' align='center'>
   <img src="assets/core/ui/static/media/Badge/finops-certified-engineer.png" height="100px" />
+  <img src="assets/core/ui/static/media/Badge/AWS Certified Cloud Practitioner.png" height="100px" />
+  <img src="assets/core/ui/static/media/Badge/aws-cloud-quest-cloud-practitioner.png" height="100px" />
+  <img src="https://github.com/user-attachments/assets/2d015aac-c992-4d26-929d-943c827bdb55" height="100px" />
+  <img src="https://github.com/user-attachments/assets/da47e5b3-2603-4fbc-a432-befdc03212fa" height="100px" />
   <img src="assets/core/ui/static/media/Badge/github-actions.png" height="100px" />
   <img src="assets/core/ui/static/media/Badge/GitHub Administration.png" height="100px" />
   <img src="https://github.com/user-attachments/assets/83d9db6e-b5e8-4b19-9878-b32559d86aca" height="100px" />
   <img src="https://github.com/user-attachments/assets/38dbb19d-3c50-45fe-a40f-5d75d67addff" height="100px" />
+  <img src="https://raw.githubusercontent.com/akashdip2001/akashdip2001/main/img/Badge/lfs101-introduction-to-linux.png" height="100px" />
+  <img src="https://raw.githubusercontent.com/akashdip2001/akashdip2001/main/img/Badge/lfel1009-getting-started-with-opentofu.png" height="100px" />
   <img src="assets/core/ui/static/media/Badge/Postman White badge.png" height="100px" />
-  <img src="assets/core/ui/static/media/Badge/AWS Certified Cloud Practitioner.png" height="100px" />
-  <img src="assets/core/ui/static/media/Badge/aws-cloud-quest-cloud-practitioner.png" height="100px" />
   <img src="https://github.com/user-attachments/assets/2ea628be-a83a-4c27-bb9b-1dcd6cb09791" height="100px" />
   <img src="assets/core/ui/static/media/Badge/akamai-cloud-computing-foundations-certification.png" height="100px" />
   <img src="assets/core/ui/static/media/Badge/Oracle AI Vector Search Certified Professional.png" height="100px" />
   <img src="https://github.com/akashdip2001/git-github/raw/main/Exam/06%20GitHub%20Copilot/github-copilot.png" height="100px" />
+  <img src="https://raw.githubusercontent.com/akashdip2001/akashdip2001/main/img/Badge/nasa%20open%20science%20Badge.png" height="100px" />
 </div>
 
 <br/>
@@ -38,6 +43,19 @@
 My engineering journey started in the physical world. With a background in Mechanical Engineering and a recognized passion for illustration (honored with a National Award from the President of India in 2012 & 2017), I have always loved breaking down how complex systems fit together. 
 
 Today, I apply that same spatial reasoning and structural mindset to distributed cloud systems, DevOps pipelines, and Site Reliability Engineering (SRE). I specialize in automating away operational toil, securing infrastructure, and managing highly reliable enterprise environments (currently managing 50+ distributed compute nodes and high-throughput event streams).
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Core Infrastructure & DevOps:** <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,docker,kubernetes,kafka,jenkins,terraform,githubactions)](https://skillicons.dev)
+
+**Languages, Backend & Databases:** <br>
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,bash,nodejs,postgres,mysql,mongodb,redis)](https://skillicons.dev)
+
+**System Tools & Environments:** <br>
+[![My Skills](https://skillicons.dev/icons?i=kali,nginx,vscode,vim,postman,arduino)](https://skillicons.dev)
 
 ---
 
@@ -78,6 +96,12 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 <br>
 
 <div align="center">
+  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=AkashdipMahapatra-BA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkashdipMahapatra-BA&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="assets/core/ui/static/media/Blue horizontal line.png" height="10" width="80%">
   <p><i>"Success looks good on paper, but experiences truly make you feel alive. Fail, learn, and repeat."</i></p>
 </div>
@@ -87,8 +111,13 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 ---
 
 <div align="center"> 
+  <p>
+    <a href="https://linkedin.com/in/akashdip2001" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp; 
+    <a href="mailto:akashdipmahapatra.official@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  <br>
   <a href="https://github.com/akashdip2001">
-    <img src="https://img.shields.io/badge/GitHub-akashdip2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-akashdip2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub Archive" />
   </a><br><br>
   📂 <b>Personal Archive & Academic Projects: (2021 - 2025)</b>
 </div>
