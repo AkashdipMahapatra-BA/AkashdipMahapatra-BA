@@ -29,7 +29,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Akashdip%20Mahapatra&height=150&fontSize=80&desc=DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20SRE&descAlignY=75&descAlign=82.4"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Akashdip%20Mahapatra&height=150&fontSize=80&desc=DevOps%20%7C%20Cloud%20Infrastructure%20%7C%20SRE&descAlignY=75&descAlign=70"/>
 </div>
 
 <div align="left">
