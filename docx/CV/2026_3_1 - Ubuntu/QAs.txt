@@ -1,0 +1,24 @@
+As soon as i got my personal laptop, I installed Kali (love all Hacking tools), Ubuntu and Fedora (the GRUB bootloader is super with Dragon theme is super) in Dual boot before i join my college. I note down my all imp commands in GitHub repo https://github.com/akashdip2001/kali-all-commands from childhood as a open-source contribution. I see many Random people star my repos like - https://github.com/akashdip2001/NAS-with-ESP32. Still what ever i learn in my job, i note it down in private repos.
+So, Linux Or 'open source' I love those things from childhood.
+
+
+I created an app & uploaded it to Google Play-Store. I used to post learning videos on YouTube, but one day all my juniors dropped classes and prefer to watch my videos before exam, so professor forced me to drop the videos. Then due to the juniors' requests, I created a learning app. I built my own authentication system by simple html, php, SMTP mailer and a Java Android shell. 
+Currently due to lack of maintenance the app is not available on google play.
+
+I have leadership skills, I easily understand complex things and explain them in a very simplified way with diagrams. I received a National Award in school so from childhood i became a very prominent figure. During my college time, I was already a well-known face from YouTube, so in hackathons, learning camps (specially related to 'How to start with Linux?', Open Source summit) I received invitations as an instructor. 
+
+In my class 10th & 12th standard board examinations in India, I scored very high marks specially in all science subjects. I successfully cleared the WBJEE (highly competitive State-Level engineering entrance exam in India). Securing a top rank in this exam allowed me to get a good college without tuition fees (saving around 7 Lakh Rupees)
+
+I completed my Bachelor of Technology (B.Tech) in Mechanical Engineering. My final grade is 7.96 CGPA out of a 10.0 grading system.
+
+---
+
+I am good at Python programming, because it's my daily work. Because I am responsible for automating manual work using Python, so I understand how Python can communicate with cloud infrastructures (AWS), how to handle AWS requests and manage and process them. Example, I built a custom Python Boto3 engine to auto-discover AWS resources and validate post-deployment health dev/UAT/Prod env, which reduced a 30-minute manual checking task into a 5-minute automated script.
+I am also good at easy and mid level DSA questions.
+
+I am very familiar with Debian-based Linux ecosystem (Ubuntu, Kali Linux) and very family with the file system and networking concepts.
+I also have a fundamental knowledge of the Linux kernel and the storage systems and how those things work.
+But because I have not yet gotten a chance to explore those sides, that is the only reason for my limited knowledge of those fields but I definitely want to get a chance to explore those sides too.
+
+I have a strong understanding of Kubernetes architecture because it is used in many places across our enterprise projects. My daily, hands-on production experience is heavily focused on managing and orchestrating containers using Docker, AWS ECS, and ECR. Because I already manage over 50 distributed compute nodes and deploy serverless container environments using Terraform, transitioning those concepts to Kubernetes pods and clusters is very natural for me.
+Regarding OpenStack and Ceph, my current enterprise environment is built entirely on the AWS public cloud. For this, I have not yet had the opportunity to manage private clouds or distributed storage systems, But Genuinely have hunger to get a chance to learn.
