@@ -57,6 +57,33 @@ Today, I apply that same spatial reasoning and structural mindset to distributed
 **System Tools & Environments:** <br>
 [![My Skills](https://skillicons.dev/icons?i=kali,nginx,vscode,vim,postman,arduino)](https://skillicons.dev)
 
+**AI & GenAI:** <br>
+[![Python & FastAPI](https://skillicons.dev/icons?i=python,fastapi,redis,mongodb)](https://skillicons.dev) <br>
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-00512D?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0A66C2?style=for-the-badge)
+
+> Foundations → APIs → Prompting → Local LLMs → Agents → RAG → 
+> Async Queues → Multimodal → LangGraph → Memory (Vector + Graph) → Voice
+
+
+---
+
+### 📈 Key Engineering Impact (Last 6 Months)
+Since transitioning into a dedicated enterprise DevOps role, I have focused heavily on eliminating operational toil through automation. My recent workflow architectures have generated the following verified time-savings:
+
+* **Automated Post-Deployment Validation:** Replaced a manual log-checking checklist with an AWS-native Python engine.
+  * **Impact:** Reduced QA sign-off time from **30 minutes to under 5 minutes**.
+* **Zero-Touch UAT Health Checks:** Engineered an automated health-check pipeline to validate environment integrity without requiring senior engineer intervention.
+  * **Impact:** Reduced environment validation time from **1.5 hours to ~5 minutes**.
+* **1-Click Vulnerability Remediation (DevSecOps):** Designed a CI/CD workflow that handles environment setup, terminal execution, and deployment for patching CVEs.
+  * **Impact:** Reduced critical patching lifecycle from **1 full day of manual effort to 30 minutes** of automated background processing.
+* **Event-Driven Data Seeding:** Automated manual S3 bucket data-dump processes that previously required data analytics and SQL expertise. 
+  * **Impact:** Reduced trigger time from **30 minutes to 2 minutes**, democratizing the process for non-data engineers.
+
 ---
 
 ### 🧠 The Engineering Mindset: Beyond the Defaults
@@ -69,6 +96,10 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 * **Orchestration:** Transitioning deeper into container orchestration by exploring **Kubernetes (K8s)** and multi-stage Docker optimization.
 * **Backend Engineering:** Expanding my architectural scope by building Python-based web backends (including bypassing frameworks to build raw HTTP servers using basic TCP sockets).
 * **Algorithms:** Consistently sharpening my problem-solving efficiency and data structures knowledge.
+
+* **Agentic AI & GenAI Engineering:** Building production-grade GenAI systems. Experience includes **LangGraph-based agentic workflows**, hybrid memory architecture (Semantic/Episodic via **Qdrant** + Relational via **Neo4j** & **mem0**), scalable asynchronous RAG pipelines using **Redis/Valkey** message queues, and building Multimodal/Voice-controlled agents using OpenAI and local (Ollama) models.
+
+</br>
 
 **Catch up on my latest algorithmic problem-solving:**
 <br/>
@@ -94,6 +125,26 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 * **IAM Least-Privilege Enforcement:** Authored and deployed Terraform configurations to systematically re-route AWS IAM permissions and manage VPC endpoints, ensuring seamless transitions without service interruption.
 
 <br>
+
+---
+
+## 🏆 Recognition & Awards
+
+<div align="center">
+
+### TCS Gems — Star of the Month Award
+*Awarded by Tata Consultancy Services | July 2026*
+
+<img src="https://github.com/user-attachments/assets/b9d48f11-5116-41ea-95f8-b8ea900363c1" width="70%" />
+
+> *"In appreciation of your outstanding contribution to the organisation"*  
+> — Sudeep Kunnumal, Chief Human Resources Officer, TCS
+
+</div>
+
+---
+
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=AkashdipMahapatra-BA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
