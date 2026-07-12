@@ -39,6 +39,10 @@
 </div>
 <br>
 
+> 💡 **Note on Certifications:** I am proud to say I never spent a single rupee on these certifications. Every badge above was earned during my final year of college (2024–2025) by participating in global challenges, technical programs, and completing rigorous hands-on labs. While some 1-year certifications may have reached their expiration, my focus has shifted away from collecting badges. Today, my priority is solving **real-world enterprise challenges**, deepening my architectural skills, and continuously adapting to the fast-paced GenAI and DevOps landscape.
+
+---
+
 ### 🚀 About Me: From Mechanical Design to Cloud Architecture
 My engineering journey started in the physical world. With a background in Mechanical Engineering and a recognized passion for illustration (honored with a National Award from the President of India in 2012 & 2017), I have always loved breaking down how complex systems fit together. 
 
