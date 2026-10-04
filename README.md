@@ -139,7 +139,7 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 ### ⭐ TCS Gems — Star of the Month Award
 *Awarded by Tata Consultancy Services | July 2026*
 
-<img src="https://github.com/user-attachments/assets/b9d48f11-5116-41ea-95f8-b8ea900363c1" width="70%" />
+<img src="assets/core/ui/static/media/tcs-gems-00.png" width="70%" />
 
 > *"In appreciation of your outstanding contribution to the organisation"*  
 > — Sudeep Kunnumal, Chief Human Resources Officer, TCS
@@ -153,7 +153,7 @@ I believe in understanding *why* a technology exists, not just *how* to use it. 
 ### 🏆 Emerging AI Champion Award 
 *Awarded by Tata Consultancy Services (IAG) | August 2026*
 
-<img src="https://github.com/user-attachments/assets/3212b7d9-67eb-436b-8467-496fe06ebed6" width="70%" />
+<img src="assets/core/ui/static/media/ba-ai-champion.png" width="70%" />
 
 > *"Selected from across the global account for developing "SkyAssure," an AI-powered automated code review and workflow agent using LLMs and FastAPI."*  
 
